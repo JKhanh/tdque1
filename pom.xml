@@ -41,7 +41,6 @@
             <version>2.3.33</version>
         </dependency>
     </dependencies>
-https://www.tutorialspoint.com/struts_2/struts_database_access.htm
     <build>
         <plugins>
             <plugin>
